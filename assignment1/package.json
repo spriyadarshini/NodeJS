@@ -1,0 +1,16 @@
+{
+  "name": "node_file_upload",
+  "version": "1.0.0",
+  "description": "File Upload using Node JS",
+  "main": "upload.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Priyadarshini Sarode",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "grunt-nodemon": ""
+  },
+  "devDependencies": {}
+}
